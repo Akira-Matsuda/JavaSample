@@ -5,7 +5,7 @@ public class SampleAction {
 	public String exectute() {
 
 		for (int i = 0; i < 100; i++) {
-			System.out.println(i * 100);
+			System.out.println(i * 1000);
 		}
 
 		return "Return";
